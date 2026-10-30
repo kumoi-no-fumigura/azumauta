@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/azumauta",
  "yomi": "あづまうた",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "江戸中期",
+  "author": "加藤枝直（1692〜1785）",
+  "desc": "加藤千蔭の父で、江戸の町奉行所の与力を務めた枝直の家集。和文の序を冠し、長歌も収める。本文に天明5年の年記が見える。"
+ },
  "editions": [
   {
    "pid": "993385",
